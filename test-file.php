@@ -5,6 +5,6 @@
 		return $param;
 	}
 
-	echo emptyFunction('test');
+	echo emptyFunction('another test...');
 
 ?>

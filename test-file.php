@@ -5,6 +5,6 @@
 		return $param;
 	}
 
-	echo emptyFunction('another test...');
+	echo emptyFunction('This is from secondary branch');
 
 ?>
